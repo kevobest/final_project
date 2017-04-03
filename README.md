@@ -1,1 +1,6 @@
-# final_project
+##  final_project
+
+
+Project status,
+
+By Kevin Lee 
